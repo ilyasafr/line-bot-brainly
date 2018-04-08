@@ -1,2 +1,2 @@
-# line-bot-brainly
-LINE@ BOT Brainly
+# LINE@ BOT Brainly
+Cooming Soon!
